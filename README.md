@@ -8,7 +8,6 @@ DevOps Engineer
 * ✉️  You can contact me at [joaovssales@gmail.com](mailto:joaovssales@gmail.com)
 * 🧠  I'm learning Docker, Kubernetes, Jenkins, Python, AWS
 * 🤝  I'm open to collaborating on Cloud Projects
-* ⚡  I really like Spiderman... a lot
 
 <a href="https://www.github.com/jsaless" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jsaless?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" /></a>
