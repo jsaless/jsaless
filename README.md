@@ -127,7 +127,7 @@ Ola, sou João Sales, estou atualmente atuando como DevOps Engineer na UOL EdTec
     alt="GitHub Stats" 
     height=200
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jsaless&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=jsaless&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&rank_icon=github" 
   />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -135,6 +135,6 @@ Ola, sou João Sales, estou atualmente atuando como DevOps Engineer na UOL EdTec
       align="center" 
       alt="GitHub Stats" 
       height=200
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsaless&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=320" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsaless&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8&card_width=320" 
   />
 </a>
