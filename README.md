@@ -127,7 +127,7 @@ Ola, sou João Sales, estou atualmente atuando como DevOps Engineer na UOL EdTec
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jsaless&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br&card_width=500" 
+    src="https://github-readme-stats.vercel.app/api?username=jsaless&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br&card_width=300" 
   />
 
 <img 
