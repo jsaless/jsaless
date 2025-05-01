@@ -2,7 +2,7 @@
 
 **`Engenheiro DevOps`**
 
-Ola, sou João Sales, estou atualmente atuando como DevOps Engineer na UOL EdTech, empresa líder em tecnologia educacional no Brasil, onde projeto, implemento e mantenho sistemas escaláveis ​​e resilientes usando pipelines de CI/CD, automação de infraestrutura e monitoramento de sistemas. Também automatizo e otimizo o tempo de produtividade no provisionamento e configuração de infraestrutura, e respondo a incidentes e restauro serviços seguindo as melhores práticas.
+Ola, sou João Sales, estou atualmente atuando como DevOps Engineer no Grupo Primo, empresa líder em tecnologia educacional no Brasil, onde projeto, implemento e mantenho sistemas escaláveis ​​e resilientes usando pipelines de CI/CD, automação de infraestrutura e monitoramento de sistemas. Também automatizo e otimizo o tempo de produtividade no provisionamento e configuração de infraestrutura, e respondo a incidentes e restauro serviços seguindo as melhores práticas.
 
 <p align="left">
     <a href="https://github.com/jsaless?tab=followers">
